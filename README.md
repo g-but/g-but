@@ -1,42 +1,42 @@
 ### I solve hard problems fast. The domain is irrelevant.
 
-Bitcoin protocol design, AI knowledge systems, real-time microservices, government civic tech, nonprofit operations — I don't pick a lane. I pick the problem, reason from first principles, and ship.
+Bitcoin, AI, real-time systems, government platforms, nonprofit ops. I don't pick a lane. I pick the problem, reason from first principles, and ship.
 
 ---
 
 #### The Work
 
-[**OrangeCat**](https://github.com/g-but/orangecat) — Rebuilding commerce on Bitcoin. Entity Registry SSOT drives 13 entity types from one config file. Lightning Network payments. Actor system unifies individual and organizational ownership. Row Level Security at database level. [orangecat.ch](https://orangecat.ch)
+[**OrangeCat**](https://github.com/g-but/orangecat) — Rebuilding commerce on Bitcoin. One Entity Registry config file drives 13 entity types, all CRUD, navigation, and validation. Lightning Network payments, actor-based ownership model, RLS at the database level. [orangecat.ch](https://orangecat.ch)
 
-[**Solon**](https://github.com/g-but/solon) — Replacing trust with math. Treasury on-chain, votes cryptographically signed, decisions tracked against KPIs. Four governance pillars, four voting mechanisms, five transparency metrics. If it can't be verified, it doesn't count.
+[**Solon**](https://github.com/g-but/solon) — Governance where every treasury transaction is on-chain, every vote is cryptographically signed, and every decision is tracked against KPIs. If it can't be verified, it doesn't count.
 
-[**Botsmann**](https://github.com/g-but/botsmann) — Multi-LLM routing across Groq, OpenRouter, and local Ollama. Six domain-specialized AI professionals with scoped knowledge. RAG via pgvector, zero-cost client-side embeddings. Four-layer prompt injection defense. [botsmann.vercel.app](https://botsmann.vercel.app)
+[**Botsmann**](https://github.com/g-but/botsmann) — Routes queries across Groq, OpenRouter, and local Ollama. Six AI professionals with scoped knowledge bases. Client-side embeddings (zero API cost), pgvector search, four-layer prompt injection defense. [botsmann.vercel.app](https://botsmann.vercel.app)
 
-[**RevampIT**](https://github.com/g-but/revampit) — Technology redistribution for a Swiss nonprofit. Custom CMS, 165 table constants as SSOT, 312 tests across 24 suites. Built because Strapi was slower, heavier, and harder to control. [revamp-it.ch](https://revamp-it.ch)
+[**RevampIT**](https://github.com/g-but/revampit) — Swiss nonprofit giving tech a second life. Custom CMS because Strapi was slower, heavier, and harder to control. 165 table constants as SSOT, 312 tests. [revamp-it.ch](https://revamp-it.ch)
 
-[**SBB Lost & Found**](https://github.com/g-but/sbb-lost-found) — Real-time lost item recovery for Swiss railways. Microservice architecture, Redis pub/sub, Socket.io live notifications. Collapses the recovery window from 24 hours to 30 minutes.
+[**SBB Lost & Found**](https://github.com/g-but/sbb-lost-found) — Real-time lost item recovery for Swiss railways. Redis pub/sub, Socket.io, microservices. Gets the recovery window from 24 hours down to 30 minutes.
 
-[**Reparaturbonus Zürich**](https://github.com/g-but/reparaturbonus-zh) — Government repair bonus platform. Radius-based shop search, bonus code generation, graceful API degradation. Repair over replace.
+[**Reparaturbonus Zürich**](https://github.com/g-but/reparaturbonus-zh) — City of Zurich repair bonus platform. Radius-based shop search, bonus code generation, APIs that degrade gracefully. Repair over replace.
 
 ---
 
 #### How I Think
 
-**First principles, not best practices.** What problem am I actually solving? What are the real constraints? What is the simplest solution that respects them? If the answer to "why?" is "because other projects do it" — stop. Convention is not a reason. Analogy is not an argument. Derive every decision from ground truths.
+I start with the problem, not the tools. What are the actual constraints? What's the simplest thing that works within them? If the only reason to do something is "that's how other projects do it," it's not a reason.
 
-**One source of truth, no exceptions.** Every piece of data lives in exactly one place. Types derived from schemas, never defined separately. Config drives behavior. If adding a field requires touching 5 files, the architecture is wrong.
+Every piece of data gets one home. Types come from schemas. Config drives behavior. If adding a field means touching 5 files, the architecture needs fixing.
 
-**Complexity must earn its place.** Every abstraction is a tax on every future change. Three similar lines of code is better than a premature abstraction. Build for the current problem, not hypothetical future requirements.
+I don't build for hypothetical future requirements. Three lines of similar code beats a premature abstraction every time. Complexity has to justify itself.
 
-**Automate the mechanical, reserve humans for judgment.** Formatting, validation, deployment, testing — machines. Architecture, UX, business decisions — humans. Every manual step that could be automated is a reliability risk.
+Machines should do what machines are good at (formatting, validation, testing, deployment). Humans should do what humans are good at (architecture, UX, product decisions). Mixing these up is how you get both bad code and burnt-out engineers.
 
-Start with [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.claude/rules) in OrangeCat for 5,500 lines of architectural patterns, or the [test suites](https://github.com/g-but/revampit/tree/main/tests) in RevampIT.
+Dig into [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.claude/rules) in OrangeCat for 5,500 lines of how this plays out in practice.
 
 ---
 
-#### Where This Is Going
+#### Where this is going
 
-Blockchain makes institutions optional. AI makes repetitive work optional. Robotics makes drudgery optional. What's left when you remove all three? A society that runs on abundance instead of scarcity. That's not utopia — it's engineering. We're closer than most people think.
+Blockchain makes middlemen unnecessary. AI handles the boring work. Robotics handles the physical work. Stack all three and you get a world that runs on abundance instead of scarcity. We're closer to that than most people realize, and I'm building the infrastructure to get there.
 
 ---
 
