@@ -1,6 +1,6 @@
-### I like hard problems. I don't care what domain they're in.
+### Give me a hard problem and get out of the way.
 
-Bitcoin, AI, real-time systems, government platforms, nonprofit ops. I go where the interesting problems are, reason from first principles, and ship.
+Bitcoin, AI, real-time systems, government platforms, nonprofit ops. I go where the interesting problems are, figure them out from first principles, and ship. Life's too short for best practices that nobody can explain.
 
 ---
 
