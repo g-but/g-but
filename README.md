@@ -14,17 +14,17 @@ Pseudonymous by choice. The work speaks for itself.
 
 [**Solon**](https://github.com/g-but/solon) — Bitcoin-native governance where every financial transaction lives on-chain, every vote is cryptographically signed, and every decision has a KPI trail. Four pillars: transparent treasury, law framework, service marketplace, open voting. Prisma schema as SSOT, i18n for 4 languages.
 
-**Human Empowerment**
+**AI & Knowledge**
 
 [**Botsmann**](https://github.com/g-but/botsmann) — Multi-LLM platform routing across Groq, OpenRouter, and local Ollama. Six domain-specialized professionals, each with scoped document access. RAG via pgvector (384-dim embeddings, client-side, zero API cost). Four-layer prompt injection defense. Privacy-first: RLS everywhere, no cross-user data leakage.
 
-[**AOZ Housing**](https://github.com/g-but/aoz-housing) — Refugee housing compatibility matching. 38 resident factors scored across 4 dimensions, apartment-level aggregate matching with blocking conflict detection. Config-driven: add a factor in 2 files. We never track medical diagnoses, immigration status, or religion — only functional housing needs. 212 unit tests + 45 E2E tests.
-
-**Sustainability & Data**
+**Sustainability & Public Good**
 
 [**RevampIT**](https://github.com/g-but/revampit) — Swiss nonprofit giving technology a second life. Custom CMS (not Strapi — lighter, faster, full control), 165 table constants in a single SSOT, Stripe integration, HIRN AI knowledge system. 312 tests across 24 suites.
 
-[**DataCat**](https://github.com/g-but/datacat) — Universal data pipeline: ingest (forms, photos, APIs) → AI analysis (GPT-4 Vision, Google Vision, with fallbacks) → action delivery. Drag-and-drop form builder, schema versioning, one-command white-label rebranding for any vertical. tRPC for end-to-end type safety.
+[**SBB Lost & Found**](https://github.com/g-but/sbb-lost-found) — Real-time lost item recovery for Swiss public transport. Microservice architecture with Redis pub/sub event bus, Socket.io for live staff notifications, and graceful degradation to mock data. Collapses the recovery window from 24 hours to 30 minutes.
+
+[**Reparaturbonus Zürich**](https://github.com/g-but/reparaturbonus-zh) — Government-subsidized repair bonus platform connecting Zurich residents with certified shops. CHF 100 bonus codes, radius-based shop search, role-gated admin dashboard. API endpoints fall back to demo data if the database is unavailable.
 
 ---
 
@@ -32,7 +32,7 @@ Pseudonymous by choice. The work speaks for itself.
 
 One source of truth for every piece of data. Types derived from schemas, never defined separately. Config files drive behavior — if adding a field requires touching 5 files, the architecture is wrong. Validate at boundaries, trust internal code. Complexity must earn its place.
 
-Every claim on this profile is verifiable in the code. Start with [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.claude/rules) in OrangeCat for the architectural patterns, or the [test suites](https://github.com/g-but/aoz-housing/tree/main/src) in AOZ Housing for proof of correctness.
+Every claim on this profile is verifiable in the code. Start with [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.claude/rules) in OrangeCat for the architectural patterns, or the [test suites](https://github.com/g-but/revampit/tree/main/tests) in RevampIT for proof of correctness.
 
 ---
 
