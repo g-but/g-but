@@ -2,8 +2,6 @@
 
 Bitcoin protocol design, AI knowledge systems, real-time microservices, government civic tech, nonprofit operations — I don't pick a lane. I pick the problem, reason from first principles, and ship.
 
-Six production systems. Different domains. Same methodology.
-
 ---
 
 #### The Work
@@ -36,11 +34,9 @@ Start with [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.clau
 
 ---
 
-#### The Thesis
+#### Where This Is Going
 
-Blockchain removes the need to trust institutions. AI removes the need for repetitive labor. Robotics removes the need for human drudgery. Together, they don't improve the current system — they make it obsolete.
-
-We are entering the technological singularity. The result is a society of sustainable abundance. I build the infrastructure for that transition.
+Blockchain makes institutions optional. AI makes repetitive work optional. Robotics makes drudgery optional. What's left when you remove all three? A society that runs on abundance instead of scarcity. That's not utopia — it's engineering. We're closer than most people think.
 
 ---
 
