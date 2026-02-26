@@ -1,38 +1,30 @@
-### Software should serve humans, not the other way around.
+### Decentralization. Automation. Abundance.
 
-Every line of code I write starts from that premise. I build open-source systems where transparency isn't a feature — it's the architecture. Where a single config change propagates through the entire stack. Where 760 tests prove correctness, not just coverage.
+Blockchain removes the need to trust institutions. AI removes the need for repetitive labor. Robotics removes the need for human drudgery. Together, they don't just improve the current system — they make it obsolete. We are entering the technological singularity, and the result is a society of sustainable abundance.
 
-Pseudonymous by choice. The work speaks for itself.
+I build the infrastructure for that transition.
 
 ---
 
 #### The Work
 
-**Transparency & Bitcoin**
+**Decentralized Finance & Governance**
 
-[**OrangeCat**](https://github.com/g-but/orangecat) — Bitcoin transparency platform with a single Entity Registry that drives 13 entity types, all CRUD operations, navigation, and validation from one source of truth. Satoshis-only storage (no floats), Row Level Security at database level, middleware composition that eliminates 95% of auth duplication. 84 test files, 5 CI workflows.
+[**OrangeCat**](https://github.com/g-but/orangecat) — Bitcoin-native commerce, funding, and community platform. Entity Registry SSOT drives 13 entity types from one config file. All prices in satoshis (BigInt, no floats). Lightning Network payments. Row Level Security at the database level.
 
-[**Solon**](https://github.com/g-but/solon) — Bitcoin-native governance where every financial transaction lives on-chain, every vote is cryptographically signed, and every decision has a KPI trail. Four pillars: transparent treasury, law framework, service marketplace, open voting. Prisma schema as SSOT, i18n for 4 languages.
+[**Solon**](https://github.com/g-but/solon) — Cryptographic democracy. Treasury transactions on-chain, votes signed with Bitcoin keys, decisions tracked against KPIs. Replaces trust with math.
 
-**AI & Knowledge**
+**AI & Autonomous Systems**
 
-[**Botsmann**](https://github.com/g-but/botsmann) — Multi-LLM platform routing across Groq, OpenRouter, and local Ollama. Six domain-specialized professionals, each with scoped document access. RAG via pgvector (384-dim embeddings, client-side, zero API cost). Four-layer prompt injection defense. Privacy-first: RLS everywhere, no cross-user data leakage.
+[**Botsmann**](https://github.com/g-but/botsmann) — Multi-LLM routing across Groq, OpenRouter, and local Ollama. Six domain-specialized AI professionals with scoped knowledge bases. RAG via pgvector with zero-cost client-side embeddings. Four-layer prompt injection defense.
 
-**Sustainability & Public Good**
+**Sustainability & Circular Economy**
 
-[**RevampIT**](https://github.com/g-but/revampit) — Swiss nonprofit giving technology a second life. Custom CMS (not Strapi — lighter, faster, full control), 165 table constants in a single SSOT, Stripe integration, HIRN AI knowledge system. 312 tests across 24 suites.
+[**RevampIT**](https://github.com/g-but/revampit) — Swiss nonprofit redistributing technology instead of discarding it. Custom CMS, 165 table constants as SSOT, 312 tests. Open-source because that's what a circular economy looks like in software.
 
-[**SBB Lost & Found**](https://github.com/g-but/sbb-lost-found) — Real-time lost item recovery for Swiss public transport. Microservice architecture with Redis pub/sub event bus, Socket.io for live staff notifications, and graceful degradation to mock data. Collapses the recovery window from 24 hours to 30 minutes.
+[**SBB Lost & Found**](https://github.com/g-but/sbb-lost-found) — Real-time lost item recovery for Swiss railways. Microservice architecture, Redis pub/sub, Socket.io live notifications. Collapses recovery time from 24 hours to 30 minutes.
 
-[**Reparaturbonus Zürich**](https://github.com/g-but/reparaturbonus-zh) — Government-subsidized repair bonus platform connecting Zurich residents with certified shops. CHF 100 bonus codes, radius-based shop search, role-gated admin dashboard. API endpoints fall back to demo data if the database is unavailable.
-
----
-
-#### Engineering Philosophy
-
-One source of truth for every piece of data. Types derived from schemas, never defined separately. Config files drive behavior — if adding a field requires touching 5 files, the architecture is wrong. Validate at boundaries, trust internal code. Complexity must earn its place.
-
-Every claim on this profile is verifiable in the code. Start with [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.claude/rules) in OrangeCat for the architectural patterns, or the [test suites](https://github.com/g-but/revampit/tree/main/tests) in RevampIT for proof of correctness.
+[**Reparaturbonus Zürich**](https://github.com/g-but/reparaturbonus-zh) — Government repair bonus platform. Connecting residents with certified repair shops instead of landfills. Repair over replace.
 
 ---
 
