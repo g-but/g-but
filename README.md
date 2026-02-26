@@ -1,4 +1,4 @@
-### Give me a hard problem and a cup of coffee.
+### Give me a hard problem and a cup of tea.
 
 Bitcoin, AI, real-time systems, government platforms, nonprofit ops. I go where the interesting problems are, figure them out from first principles, and ship. Life's too short for best practices that nobody can explain.
 
@@ -30,7 +30,7 @@ I don't build for hypothetical future requirements. Three lines of similar code 
 
 Machines should do what machines are good at (formatting, validation, testing, deployment). Humans should do what humans are good at (architecture, UX, product decisions). Mixing these up is how you get both bad code and burnt-out engineers.
 
-Dig into [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.claude/rules) in OrangeCat for 5,500 lines of how this plays out in practice.
+If you're the kind of person who reads architecture docs for fun, start with [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.claude/rules) in OrangeCat. 5,500 lines. You're welcome.
 
 ---
 
