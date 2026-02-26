@@ -28,7 +28,7 @@ Every piece of data gets one home. Types come from schemas. Config drives behavi
 
 I don't build for hypothetical future requirements. Three lines of similar code beats a premature abstraction every time. Complexity has to justify itself.
 
-Machines should do what machines are good at (formatting, validation, testing, deployment). Humans should do what humans are good at (architecture, UX, product decisions). Mixing these up is how you get both bad code and burnt-out engineers.
+Machines are better than humans at almost everything now. Architecture, UX, product decisions, code, testing. The only thing left that's uniquely human is deciding what's worth building in the first place. I do that part. My army of robots does the rest.
 
 If you're the kind of person who reads architecture docs for fun, start with [`.claude/rules/`](https://github.com/g-but/orangecat/tree/main/.claude/rules) in OrangeCat. 5,500 lines. You're welcome.
 
@@ -37,6 +37,8 @@ If you're the kind of person who reads architecture docs for fun, start with [`.
 #### Where this is going
 
 Blockchain makes middlemen unnecessary. AI handles the boring work. Robotics handles the physical work. Stack all three and you get a world that runs on abundance instead of scarcity. We're closer to that than most people realize, and I'm building the infrastructure to get there.
+
+When I'm not commanding robots, I'm probably listening to electronic music and thinking about the next problem worth solving.
 
 ---
 
