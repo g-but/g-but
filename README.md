@@ -6,17 +6,19 @@ Bitcoin, AI, real-time systems, government platforms, nonprofit ops. I go where 
 
 #### The Work
 
-[**OrangeCat**](https://github.com/g-but/orangecat) — Rebuilding commerce on Bitcoin. One Entity Registry config file drives 13 entity types, all CRUD, navigation, and validation. Lightning Network payments, actor-based ownership model, RLS at the database level. [orangecat.ch](https://orangecat.ch)
+These aren't separate projects. They're all pieces of the same thing.
 
-[**Solon**](https://github.com/g-but/solon) — Governance where every treasury transaction is on-chain, every vote is cryptographically signed, and every decision is tracked against KPIs. If it can't be verified, it doesn't count.
+[**OrangeCat**](https://github.com/g-but/orangecat) — Commerce without banks. Funding without intermediaries. Community without platforms taking a cut. OrangeCat is economic infrastructure for a post-middleman world, built on Bitcoin and Lightning Network. One Entity Registry config drives 13 entity types across the entire app. [orangecat.ch](https://orangecat.ch)
 
-[**Botsmann**](https://github.com/g-but/botsmann) — Routes queries across Groq, OpenRouter, and local Ollama. Six AI professionals with scoped knowledge bases. Client-side embeddings (zero API cost), pgvector search, four-layer prompt injection defense. [botsmann.vercel.app](https://botsmann.vercel.app)
+[**Solon**](https://github.com/g-but/solon) — If OrangeCat decentralizes commerce, Solon decentralizes power. Every treasury transaction on-chain, every vote cryptographically signed, every decision tracked against KPIs. Governance you can verify instead of trust. Four voting mechanisms, five transparency metrics. If it can't be verified, it doesn't count.
 
-[**RevampIT**](https://github.com/g-but/revampit) — Swiss nonprofit giving tech a second life. Custom CMS because Strapi was slower, heavier, and harder to control. 165 table constants as SSOT, 312 tests. [revamp-it.ch](https://revamp-it.ch)
+[**Botsmann**](https://github.com/g-but/botsmann) — Legal advice, medical guidance, research, translation used to be locked behind expensive professionals. Botsmann makes that expertise accessible through six domain-specialized AI professionals, each with their own scoped knowledge base. Routes across Groq, OpenRouter, and local Ollama so you're never locked into one provider. [botsmann.vercel.app](https://botsmann.vercel.app)
 
-[**SBB Lost & Found**](https://github.com/g-but/sbb-lost-found) — Real-time lost item recovery for Swiss railways. Redis pub/sub, Socket.io, microservices. Gets the recovery window from 24 hours down to 30 minutes.
+[**RevampIT**](https://github.com/g-but/revampit) — Abundance doesn't mean infinite production. It means efficiently distributing what already exists. RevampIT is a real nonprofit in Zurich that keeps technology in circulation instead of sending it to landfills. I'm building the digital infrastructure for the entire operation: inventory, P2P marketplace, workshops, services, staff coordination, meeting protocols, IT support (IT-Hilfe), and an internal dashboard ([revamp-info](https://github.com/g-but/revamp-info)). 165 table constants because real-world operations are messy. 312 tests because they have to actually work. [revamp-it.ch](https://revamp-it.ch)
 
-[**Reparaturbonus Zürich**](https://github.com/g-but/reparaturbonus-zh) — City of Zurich repair bonus platform. Radius-based shop search, bonus code generation, APIs that degrade gracefully. Repair over replace.
+[**SBB Lost & Found**](https://github.com/g-but/sbb-lost-found) — 1.2 million items lost per year on Swiss trains. Current system takes 24 hours. This gets it down to 30 minutes by connecting passengers directly with train staff in real-time. Redis pub/sub, Socket.io, microservices.
+
+[**Reparaturbonus Zürich**](https://github.com/g-but/reparaturbonus-zh) — City of Zurich repair bonus platform. Same philosophy as RevampIT: repair over replace. Connecting residents with certified repair shops instead of landfills.
 
 ---
 
@@ -36,9 +38,9 @@ If you're the kind of person who reads architecture docs for fun, start with [`.
 
 #### Where this is going
 
-Blockchain makes middlemen unnecessary. AI handles the boring work. Robotics handles the physical work. Stack all three and you get a world that runs on abundance instead of scarcity. We're closer to that than most people realize, and I'm building the infrastructure to get there.
+Decentralize commerce. Decentralize governance. Democratize expertise. Keep resources in circulation. Solve real problems in real-time. Stack all of that and you get a world that runs on abundance instead of scarcity. We're closer than most people realize.
 
-When I'm not commanding robots, I'm probably listening to electronic music and thinking about the next problem worth solving.
+When I'm not commanding robots, I'm probably listening to or making electronic music and thinking about the next problem worth solving.
 
 ---
 
