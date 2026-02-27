@@ -1,8 +1,8 @@
-### I architect systems. AI writes the code.
+### Decentralize commerce. Automate expertise. Keep resources in circulation.
 
-Blockchain, AI, and circular economy — building infrastructure that removes middlemen and keeps resources in circulation.
+I decide what gets built and why. AI handles the how.
 
-[**OrangeCat**](https://github.com/g-but/orangecat) — Bitcoin-native funding and commerce. No banks, no middlemen. [orangecat.ch](https://orangecat.ch)
+[**OrangeCat**](https://github.com/g-but/orangecat) — Bitcoin-native funding and commerce. No middlemen. [orangecat.ch](https://orangecat.ch)
 
 [**Botsmann**](https://github.com/g-but/botsmann) — Domain-specialized AI professionals. Legal, medical, research, translation. [botsmann.vercel.app](https://botsmann.vercel.app)
 
